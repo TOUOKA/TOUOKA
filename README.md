@@ -1,5 +1,10 @@
 # Tooka_91
 
+## 👦 Profile
+- Tech Recruiter / working in JP
+- Founder/Organizer @localtechjp
+- Living with 🐈(Kura) 
+
 ## 🛠️ My Projects
 
 - Side projects I'm currently building as a non-engineer founder.
@@ -11,9 +16,7 @@
 
 > 🚧 In Progress  |  🚀 Launched
 
-## Profile
-- Tech Recruiter / Working in JP
-- Founder/Organizer @localtechjp
+
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
