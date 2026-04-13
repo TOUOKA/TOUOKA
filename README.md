@@ -26,7 +26,7 @@
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?logo=anthropic&logoColor=white)
 
 ## 🔈 Speaking at a conference
-- YAPC::Kyoto 2023 held in 2023; [The Future of Japan's IT Community Built by Regional Engineers]([url](https://speakerdeck.com/tooka_91/19-di-fang-noenziniagazuo-ruri-ben-noitkomiyuniteinowei-lai))
+- YAPC::Kyoto 2023 held in 2023; [The Future of Japan's IT Community Built by Regional Engineers](https://speakerdeck.com/tooka_91/19-di-fang-noenziniagazuo-ruri-ben-noitkomiyuniteinowei-lai)
 
 [![X @Tooka_91](https://img.shields.io/badge/X-@Tooka_91-000000?style=flat&logo=x&logoColor=white)](https://x.com/Tooka_91)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kazuyatooka-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuyatooka)
