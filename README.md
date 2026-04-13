@@ -1,5 +1,16 @@
 # Tooka_91
 
+## 🛠️ Projects
+
+> Side projects I'm currently building as a non-engineer founder.
+
+| | Project | Description | Stack |
+|---|---|---|---|
+| 🚧 | **[Prodlive](https://github.com/TOUOKA/prodlive)** | Back-office SaaS for tech event organizers — shareable speaker links with no login required | Next.js / Supabase / Vercel |
+| 🚧 | **Gaman** | Convenience store impulse-spending restraint tracker — records moments of *not* buying and visualizes savings toward a dream purchase | Claude API / HTML |
+
+> 🚧 In Progress  |  🚀 Launched
+
 ## Profile
 - Tech Recruiter / Working in JP
 - Founder/Organizer @localtechjp
