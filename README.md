@@ -12,7 +12,7 @@
 |Status| Product | Description |
 |---|---|---|
 | 🚧 | **[Prodlive](https://github.com/TOUOKA/prodlive)** | Back-office SaaS for tech event organizers — shareable speaker links with no login required |
-| 🚧 | **Gaman** | Convenience store impulse-spending restraint tracker — records moments of *not* buying and visualizes savings toward a dream purchase | 
+| 🚧 | **Gaman** | Impulse-spending restraint tracker — records moments of *not* buying and visualizes savings toward a dream purchase | 
 
 > 🚧 In Progress  |  🚀 Launched
 
