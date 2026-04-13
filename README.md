@@ -9,7 +9,7 @@
 
 - Side projects I'm currently building as a non-engineer founder.
 
-|Status| 💻Product | ✍️Description |
+|Status| 💻 Product | ✍️ Description |
 |---|---|---|
 | 🚧 | **[Prodlive](https://github.com/TOUOKA/prodlive)** | Back-office SaaS for tech event organizers — shareable speaker links with no login required |
 | 🚧 | **Gaman** | Convenience store impulse-spending restraint tracker — records moments of *not* buying and visualizes savings toward a dream purchase | 
