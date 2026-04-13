@@ -2,7 +2,7 @@
 
 ## 🛠️ Projects
 
-> Side projects I'm currently building as a non-engineer founder.
+- Side projects I'm currently building as a non-engineer founder.
 
 | | Project | Description | Stack |
 |---|---|---|---|
