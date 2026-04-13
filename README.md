@@ -1,8 +1,8 @@
 # Tooka_91
 
 ## 👦 Profile
-- I was born in Nagoya, Japan.
-- Tech Recruiter, working in TYO/JP🇯🇵
+- I was born in Nagoya🐓/JP🇯🇵
+- Tech Recruiter, working in Tokyo🗼/JP🇯🇵
 - Founder&Organizer; [@localtechjp](https://x.com/localtech_jp)
 - Living with 🐈(Kura) 
 
