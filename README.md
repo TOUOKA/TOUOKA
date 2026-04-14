@@ -1,4 +1,4 @@
-# Tooka_91
+# Tooka-91
 
 ## 👦 Profile
 - I was born in Nagoya🐓, Japan.
