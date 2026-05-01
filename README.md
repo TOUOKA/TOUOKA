@@ -3,7 +3,6 @@
 ## 👦 Profile
 - I was born in Nagoya🐓, Japan.
 - Tech Recruiter, working in TY0🗼, JP🇯🇵 ex-MoneyForward, Misoca(Yayoi)
-- Founder&Organizer; [@localtechjp](https://x.com/localtech_jp) since 2024
 - Living with 🐈(Kura) 
 
 ## 🛠️ My Projects
