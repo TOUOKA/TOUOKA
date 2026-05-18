@@ -15,7 +15,7 @@
 | 🚧 | **Gaman** | Impulse-spending restraint tracker — records moments of *not* buying and visualizes savings toward a dream purchase | 
 | 🚧 | **[BuildUp](https://github.com/Tooka-91/devpull)** | AI-powered analytics for tech events — analyze banners, speakers, and content to unlock attendance patterns |
 
-> 🚧 In Progress  |  🚀 Launched
+> 🚧 In Progress  |  🚀 Launched  |  ⚙️ Self-Hosted
 
 
 
